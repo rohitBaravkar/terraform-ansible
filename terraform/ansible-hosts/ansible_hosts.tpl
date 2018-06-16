@@ -1,2 +1,1 @@
-[ubuntu]
 ${ubuntu_hosts}
