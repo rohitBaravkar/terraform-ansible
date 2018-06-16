@@ -1,0 +1,2 @@
+[ubuntu]
+${ubuntu_hosts}
